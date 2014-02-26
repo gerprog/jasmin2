@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8e9352a-5c4c-4a50-8e1a-18e66a4e0e4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/converter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/css/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/ConverterSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/jasmine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="C:\Users\Ger\RubymineProjects\jasmin2\js\converter.js" afterPath="$PROJECT_DIR$/test/js/converter.js" />
+      <change type="MOVED" beforePath="C:\Users\Ger\RubymineProjects\jasmin2\test\js\ConverterSpec.js" afterPath="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/SpecRunner.html" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
     </list>
     <ignored path="jasmin2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,28 +24,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="103" selection-start="248" selection-end="248" vertical-scroll-proportion="-3.4230769">
+            <state line="11" column="89" selection-start="562" selection-end="562" vertical-scroll-proportion="0.37701613">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="converter.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/converter.js">
+        <entry file="file://$PROJECT_DIR$/test/js/converter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="5" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+            <state line="10" column="63" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConverterSpec.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/js/ConverterSpec.js">
+      <file leaf-file-name="ConverterSpec.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="28" selection-start="362" selection-end="362" vertical-scroll-proportion="0.2859813">
+            <state line="9" column="28" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,15 +65,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/test/spec/SpecRunner.html" />
-        <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/js/ConverterSpec.js" />
+        <option value="$PROJECT_DIR$/test/SpecRunner.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="24" />
+    <option name="x" value="28" />
+    <option name="y" value="61" />
     <option name="width" value="1204" />
     <option name="height" value="697" />
   </component>
@@ -156,6 +149,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmin2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmin2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,10 +213,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test" />
-      <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\spec" />
-      <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\css" />
       <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\js" />
+      <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\spec" />
+      <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test" />
+      <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -286,12 +297,18 @@
       <created>1393444681203</created>
       <updated>1393444681203</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1393447619797</created>
+      <updated>1393447619797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="24" width="1204" height="697" extended-state="0" />
+    <frame x="28" y="61" width="1204" height="697" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -346,7 +363,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -359,28 +376,29 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js/converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="63" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="103" selection-start="248" selection-end="248" vertical-scroll-proportion="-3.4230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/converter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="5" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/js/ConverterSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="362" selection-end="362" vertical-scroll-proportion="0.2859813">
+        <state line="11" column="89" selection-start="562" selection-end="562" vertical-scroll-proportion="0.37701613">
           <folding />
         </state>
       </provider>
