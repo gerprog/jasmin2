@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8e9352a-5c4c-4a50-8e1a-18e66a4e0e4e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MOVED" beforePath="C:\Users\Ger\RubymineProjects\jasmin2\index.html" afterPath="$PROJECT_DIR$/home.html" />
+    <list default="true" id="e8e9352a-5c4c-4a50-8e1a-18e66a4e0e4e" name="Default" comment="added skel js">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/skel.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
     </list>
     <ignored path="jasmin2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,24 +26,42 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+            <state line="10" column="2" selection-start="437" selection-end="437" vertical-scroll-proportion="-4.1153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="77" selection-start="134" selection-end="134" vertical-scroll-proportion="-0.65384614">
+            <state line="52" column="41" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.57563025">
               <folding>
-                <marker date="1393872920936" expanded="true" signature="584:632" placeholder="..." />
+                <marker date="1394050462836" expanded="true" signature="584:632" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="skel.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/skel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="49" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-narrow.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style-narrow.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
@@ -99,12 +117,14 @@
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/skel.js" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
-    <option name="y" value="16" />
+    <option name="x" value="29" />
+    <option name="y" value="11" />
     <option name="width" value="1204" />
     <option name="height" value="697" />
   </component>
@@ -157,6 +177,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmin2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmin2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmin2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmin2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -170,8 +218,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ger\RubymineProjects\jasmin2" />
       <recent name="C:\Users\Ger\RubymineProjects\jasmin2\js" />
+      <recent name="C:\Users\Ger\RubymineProjects\jasmin2" />
       <recent name="C:\Users\Ger\RubymineProjects\jasmin2\css" />
       <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\js" />
       <recent name="C:\Users\Ger\RubymineProjects\jasmin2\test\spec" />
@@ -272,7 +320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="16" width="1204" height="697" extended-state="0" />
+    <frame x="29" y="11" width="1204" height="697" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -351,20 +399,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpecReverse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="2" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="89" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0">
@@ -421,6 +455,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-narrow.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/js/converter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="63" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
@@ -442,26 +490,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/skel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="49" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+        <state line="10" column="2" selection-start="437" selection-end="437" vertical-scroll-proportion="-4.1153846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="77" selection-start="134" selection-end="134" vertical-scroll-proportion="-0.65384614">
+        <state line="52" column="41" selection-start="1587" selection-end="1587" vertical-scroll-proportion="0.57563025">
           <folding>
-            <marker date="1393872920936" expanded="true" signature="584:632" placeholder="..." />
+            <marker date="1394050462836" expanded="true" signature="584:632" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
